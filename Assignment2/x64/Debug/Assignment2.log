@@ -1,0 +1,48 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Assignment2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SolarSystem.c
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(104): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(105): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(106): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(196): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(216): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(221): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(192): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(193): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(194): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(246): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(247): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(250): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(252): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(239): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(358): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(364): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(370): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(376): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(382): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(388): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(394): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(400): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(406): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(412): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(422): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(422): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(436): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(514): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(516): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(517): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(522): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(524): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(525): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(530): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(531): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(532): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(533): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(534): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(535): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(536): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(565): warning C4013: 'time' undefined; assuming extern returning int
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(569): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+d:\importantsave\dal\assignment2\assignment2\openglsolarsystem\assignment2\solarsystem.c(664): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+  Assignment2.vcxproj -> D:\ImportantSave\Dal\Assignment2\Assignment2\OpenGLSolarSystem\x64\Debug\SolarSystem.exe
